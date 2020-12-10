@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **askopintsev/askopintsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://habr.com/ru/post/532248/
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My HackerRank: https://www.hackerrank.com/askopintsev
+
+My LinkedIn: https://www.linkedin.com/in/askopintsev/
+
+My blog: http://shiftedstuff.ru/
+
+My twitter: https://twitter.com/SH1ft_R
