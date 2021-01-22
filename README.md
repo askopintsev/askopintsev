@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### My TOP-3 projects for now:
+1) Project of internship with micro-service approach and good practice popular technologies: https://github.com/Python-internship/AviDjango
+2) Small educational project to learn how to work with web resources: https://github.com/askopintsev/Simbir_Animals
+3) Final project from Coursera python course which uses popular patterns: https://github.com/askopintsev/Coursera_Patterns_Project-game-
+
+
 My HackerRank: https://www.hackerrank.com/askopintsev
 
 My LinkedIn: https://www.linkedin.com/in/askopintsev/
